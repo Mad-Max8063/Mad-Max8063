@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Matías Bernal
 
-<!--
-**Mad-Max8063/Mad-Max8063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent developer at **Max Devs Solutions**, building practical software and open-source tools.
 
-Here are some ideas to get you started:
+## Current focus: Project Memory Protocol
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[PMP](https://github.com/Mad-Max8063/project-memory-protocol-public) is a Git-native, model-agnostic approach to carrying project state, decisions, evidence, and next actions across AI tools and sessions.
+
+I’m currently exploring whether a structured PMP handoff can help different agents continue work from repository evidence rather than relying on a shared conversation history.
+
+- [Project repository](https://github.com/Mad-Max8063/project-memory-protocol-public)
+- [Hermes interoperability experiment](https://github.com/Mad-Max8063/project-memory-protocol-public/pull/8)
+
+The interoperability work is experimental. Independent reproductions and reports—including environment, commit, results, and failures—are welcome.
+
+## How I work
+
+I value portable workflows, human review, and technical claims that can be checked against evidence.
