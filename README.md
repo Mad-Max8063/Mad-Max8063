@@ -1,4 +1,4 @@
-# Hi, I'm Matías Bernal
+# Hi, I'm Max
 
 Independent developer at **Max Devs Solutions**, building practical software and open-source tools.
 
